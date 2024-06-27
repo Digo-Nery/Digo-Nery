@@ -11,4 +11,4 @@ Minhas redes:
 <a href="https://www.linkedin.com/in/rodrigo-neri-bastos-064859285/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://www.instagram.com/digoh_nery1/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
 
-<img height="180m" src="https://github-readme-stats.vercel.app/api?username=Digo-Nery&show_icons=true&theme=tokyonight"/> <img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digo-Nery&hide_progress=trueicons=true&theme=tokyonight"/> 
+<img height="180m" src="https://github-readme-stats.vercel.app/api?username=Digo-Nery&show_icons=true&theme=highcontrast"/> <img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digo-Nery&hide_progress=trueicons=true&theme=highcontrast"/> 
